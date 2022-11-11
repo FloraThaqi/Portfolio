@@ -1,5 +1,5 @@
-# Hi there 👋
-I'm Flora Thaqi from Gjakova, and I'm in the last year of studies(I study Financial Mathematics).I really enjoy learning programming.
+# Flora Thaqi
+I'm Flora, and I'm in the last year of studies(I study Financial Mathematics).I really enjoy learning programming.
 
 ## Skills
 HTML,CSS, Bootstrap,Javascript, Wordpress
